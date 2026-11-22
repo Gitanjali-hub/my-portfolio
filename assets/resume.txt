@@ -1,0 +1,51 @@
+GITANJALI BEHERA
+Full Stack Python Developer
+Kendrapara, India | gitanjalibehera703@gmail.com
+LinkedIn: https://www.linkedin.com/in/gitanjali-behera-7a6423297/
+GitHub: https://github.com/Gitanjali-hub
+
+PROFILE
+MCA graduate seeking an entry-level software developer opportunity. Interested in building reliable, user-friendly web applications with Python and modern frontend technologies.
+
+EDUCATION
+Master of Computer Applications (MCA)
+Biju Patnaik University of Technology | 2024
+Bachelor of Science (B.sc)
+Tulasi Women’s College, Kendrapara
+
+
+TECHNICAL SKILLS
+HTML | CSS | JavaScript | Python | SQL | React
+
+PROJECTS
+Smart Task Manager
+Developed a responsive task management web App using HTML,CSS and JavaScript Implemented features like add, edit, delete, and filter tasks with data persistence using LocalStorage. Improved user experience with 
+dynamic DOM manipulation are responsive UI design.
+Technologies: Html,Css,Javascript
+
+JobConnect – Online Job Portal
+- Developed a responsive job portal application for searching and applying for job opportunities.
+- Implemented job search, category filtering, location filtering and saved jobs functionality.
+- Developed application forms with JavaScript validation.
+- Used DOM manipulation and localStorage to manage job listings and application information.
+- Designed a user-friendly interface compatible with desktop and mobile devices.
+Technologies: HTML5, CSS3, JavaScript
+
+RecipeBox
+Recipe discovery application with searchable collections and saved favorites.
+Technologies: HTML, CSS, JavaScript, SQL
+Repository: https://github.com/your-username/recipebox
+
+SKILLS & TECHNOLOGIES:
+    Programming Languages: Python
+ 	Frontend Technologies: Html5, Css3, Javascript,ReactJs, Fetch API
+ 	Backend Technologies: Django,Flask
+ 	Database Management: Writing and executing SQL queries
+ 	Tools and Platforms: GitHub ,VS Code ,Workbench
+ 	Testing : Manual Testing,Debugging, Basic API Testing
+
+
+CAREER OBJECTIVE
+Contribute to a collaborative engineering team, apply my programming fundamentals to real-world problems, and continue growing as a full stack developer.
+
+
